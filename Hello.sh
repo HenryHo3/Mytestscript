@@ -1,6 +1,6 @@
 #/bin/bash
 
-ww=hello
+ww=hello world
 
 echo $ww
 
